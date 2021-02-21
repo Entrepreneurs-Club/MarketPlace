@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="276ffae2-cccc-4cb3-a953-d8e6ed6ed750" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/MarketPlace/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MarketPlace/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarketPlace/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/MarketPlace/lib/main.dart" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_29" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MarketPlace/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="110" column="37" lean-forward="true" selection-start-line="110" selection-start-column="37" selection-end-line="110" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Navya Sharma" />
+      </list>
+    </option>
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MarketPlace/lib/main.dart" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="136" />
+    <option name="y" value="26" />
+    <option name="width" value="1754" />
+    <option name="height" value="1015" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TritonExchange" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TritonExchange" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TritonExchange" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TritonExchange" type="462c0819:PsiDirectoryNode" />
+              <item name="MarketPlace" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TritonExchange" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TritonExchange" type="462c0819:PsiDirectoryNode" />
+              <item name="MarketPlace" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="D:/flutter/bin/cache/dart-sdk" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/MarketPlace/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/MarketPlace/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.main.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="276ffae2-cccc-4cb3-a953-d8e6ed6ed750" name="Default Changelist" comment="" />
+      <created>1612007610221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612007610221</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Intial Commit">
+      <created>1612007958538</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612007958538</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Intial Commit">
+      <created>1613737947887</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613737947887</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="109" y="21" width="1403" height="812" extended-state="0" />
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.19285183" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Resources Explorer" order="5" weight="0.3297546" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49923313" weight="0.31617647" />
+      <window_info anchor="bottom" id="TODO" order="1" weight="0.32941177" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.32794118" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5007669" side_tool="true" weight="0.29588607" />
+      <window_info anchor="bottom" id="Dart Analysis" order="4" sideWeight="0.49923313" weight="0.29264706" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32941177" />
+      <window_info anchor="bottom" id="Debug" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Flutter Inspector" order="2" />
+      <window_info anchor="right" id="Flutter Outline" order="3" weight="0.2757079" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Flutter Performance" order="5" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Intial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Intial Commit" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MarketPlace/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MarketPlace/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="110" column="37" lean-forward="true" selection-start-line="110" selection-start-column="37" selection-end-line="110" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

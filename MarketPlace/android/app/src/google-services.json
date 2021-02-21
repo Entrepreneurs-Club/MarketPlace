@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499347023040",
+    "project_id": "martketplace-12b05",
+    "storage_bucket": "martketplace-12b05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499347023040:android:f54c467de4a21c9bb6b925",
+        "android_client_info": {
+          "package_name": "com.EntrepreneursUCSD.MarketPlace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499347023040-9kd50b7mi1behpbsdte8dbttb39g837f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmTZ5crY8VYCae1G1I2tKnMQ6OPBX5u8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499347023040-9kd50b7mi1behpbsdte8dbttb39g837f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
